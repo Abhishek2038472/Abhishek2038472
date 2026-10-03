@@ -37,7 +37,7 @@ Developer Environment     │ Git/GitHub, VS Code, pgAdmin 4, Excel (Power Pivot
 | **[SaaS Churn & MRR Analytics Pipeline](https://github.com/Abhishek2038472/kkbox-subscription-pipeline)** | Python, PostgreSQL, Power BI, DAX | Chunked ETL across **825K+ subscriptions** ($108.5M MRR); diagnosed a **7.75x auto-renew churn penalty** and structured a **$2.85M MRR recovery roadmap**. |
 | **[Enterprise Automotive Commercial Audit](https://github.com/Abhishek2038472/automotive-bi-executive-audit)** | Power BI, DAX, Time-Series SQL | Modeled a **$389M retail portfolio** across 48 dealership nodes; uncovered a **66.7% warranty deficit ($1.2M upside)** with predictive margin forecasting. |
 | **[Brazilian E-Commerce RFM Retention Suite](https://github.com/Abhishek2038472/ecommerce-analytics-pipeline)** | Python, PostgreSQL, Power BI | Engineered an OLAP pipeline across **100K+ orders**; segmented **93K+ customers** into 5 RFM tiers and resolved fulfillment bottlenecks (8.7 to 28.2 days). |
-| **[fintech-fraud-risk-pipeline]([https://github.com/Abhishek2038472/ecommerce-analytics-pipeline](https://github.com/Abhishek2038472/fintech-fraud-risk-pipeline))** | Python, PostgreSQL, Power BI | Engineered an OLAP pipeline across **100K+ orders**; segmented **93K+ customers** into 5 RFM tiers and resolved fulfillment bottlenecks (8.7 to 28.2 days). |
+| **[fintech-fraud-risk-pipeline]((https://github.com/Abhishek2038472/fintech-fraud-risk-pipeline))** | Python, PostgreSQL, Power BI | Engineered an OLAP pipeline across **100K+ orders**; segmented **93K+ customers** into 5 RFM tiers and resolved fulfillment bottlenecks (8.7 to 28.2 days). |
 
 ---
 
